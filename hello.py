@@ -32,7 +32,7 @@
 def main():
 
     #To print something to the screen in Python.
-    print("\n Hello Python Multiverse!\n\n")
+    print("\n Hello Python Multiverse!\n I am a lizard man who likes monkeys\n")
     # wouldn't it be funny to print something here
     # intead of a comment hehehehe. 
 
